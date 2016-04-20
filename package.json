@@ -1,0 +1,20 @@
+{
+  "name": "cpd-array-max",
+  "version": "1.0.0",
+  "description": "return max element in array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Sopin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmSopin/cpd-array-max"
+  },
+  "keywords": [
+    "array",
+    "max",
+    "cdp"
+  ]
+}
