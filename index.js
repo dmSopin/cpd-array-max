@@ -1,4 +1,4 @@
-module.exports = (arr) => {
+module.exports = function(arr) {
     var max;
 
     if(Array.isArray(arr) && arr.length) { //if arr is not Array or is epmty return null
@@ -14,5 +14,4 @@ module.exports = (arr) => {
     } else  {
         return null;
     }
-
-}
+};
